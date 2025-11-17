@@ -33,28 +33,6 @@ Objetivos principales:
 Se exploró Databricks para entender el flujo cloud/Spark; la limpieza se ejecutó en Jupyter + PySpark en la VM y los CSV limpios se importaron a Power BI para diseño del dashboard.
 
 ---
-
-## Estructura del repositorio
-
-LaLiga2024-25/
-├─ clean_data/
-│ ├─ players_clean.csv # generados por notebook
-│ ├─ season_clean.csv
-│ └─ clasification_clean.csv
-├─ dashboard/  # capturas de las diferentes páginas del dashboard, además del propio dashboard
-│ ├─ clasification.PNG
-│ ├─ dashboard images
-│ ├─ dashboard.pbix
-│ ├─ dataclubs.PNG
-│ └─  dataplayers.PNG
-├─ notebooks/ # botebook principal: limpieza & merge, incluye consultas y tablas auxiliares
-│ ├─ jupyterNotebook.ipynb
-├─ webscraping/ # ficheros para obtener información relevante
-│ ├─ budgets.py
-│ ├─ players_stats.py
-│ └─ teams.py
-└─ README.md
-
 ## Tecnologías y librerías
 **Lenguajes / Plataformas**
 - Python (Jupyter Notebook)  
