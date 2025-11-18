@@ -8,8 +8,8 @@
 ## 📚 Índice
 - [Descripción del proyecto](#descripción-del-proyecto)   
 - [Tecnologías y librerías](#tecnologías-y-librerías)  
-- [Librerías](#librerías)  
-- [Otras](#otras)  
+- [Librerías](#Librerías)  
+- [Otras](#Otras)  
 - [Hallazgos principales / insights](#hallazgos-principales--insights)  
 - [Resumen](#resumen)
 
