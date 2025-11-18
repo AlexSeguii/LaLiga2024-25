@@ -6,18 +6,12 @@
 ---
 
 ## 📚 Índice
-- [Descripción del proyecto](#descripción-del-proyecto)  
-- [Estructura del repositorio](#estructura-del-repositorio)  
+- [Descripción del proyecto](#descripción-del-proyecto)   
 - [Tecnologías y librerías](#tecnologías-y-librerías)  
-- [Requisitos e instalación rápida](#requisitos-e-instalación-rápida)  
-- [Notebooks y scripts (orden de ejecución)](#notebooks-y-scripts-orden-de-ejecución)  
-- [Fragmentos clave (ejemplos de código)](#fragmentos-clave-ejemplos-de-código)  
-- [Power BI — Visuales y medidas DAX recomendadas](#power-bi---visuales-y-medidas-dax-recomendadas)  
-- [Comprobaciones de calidad de datos (sanity checks)](#comprobaciones-de-calidad-de-datos-sanity-checks)  
+- [Librerías](#librerías)  
+- [Otras](#otras)  
 - [Hallazgos principales / insights](#hallazgos-principales--insights)  
-- [Mejoras futuras](#mejoras-futuras)  
-- [Databricks (nota)](#databricks-nota)  
-- [Contacto / Créditos](#contacto--créditos)
+- [Resumen](#resumen)
 
 ---
 
@@ -40,7 +34,7 @@ Se exploró Databricks para entender el flujo cloud/Spark; la limpieza se ejecut
 - Power BI Desktop  
 - Databricks (exploración / notebooks cloud)
 
-**Librerías Python**
+**Librerías**
 - `pandas`, `numpy`, `pyspark`, `matplotlib`, `python-dateutil`, `BeautifulSoup`, `Selenium`
 
 **Otras**
