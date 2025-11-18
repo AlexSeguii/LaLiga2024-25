@@ -102,6 +102,4 @@ Se exploró Databricks para entender el flujo cloud/Spark; la limpieza se ejecut
 
 ---
 
-> **Resumen final:** el dashboard muestra que los grandes goleadores y creadores tienen un papel decisivo en el rendimiento de sus clubes; el presupuesto facilita competir arriba, pero no garantiza el éxito si no existe eficiencia deportiva. Hay casos de alto presupuesto con rendimiento por debajo de lo esperado y casos de bajo presupuesto con rendimiento superior, lo cual ofrece oportunidades claras para recomendaciones tácticas y de gestión deportiva.
-
--
+> **Resumen:** el dashboard muestra que los grandes goleadores y creadores tienen un papel decisivo en el rendimiento de sus clubes; el presupuesto facilita competir arriba, pero no garantiza el éxito si no existe eficiencia deportiva. Hay casos de alto presupuesto con rendimiento por debajo de lo esperado y casos de bajo presupuesto con rendimiento superior, lo cual ofrece oportunidades claras para recomendaciones tácticas y de gestión deportiva.
