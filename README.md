@@ -5,16 +5,6 @@
 
 ---
 
-## 📚 Índice
-- [Descripción del proyecto](#descripción-del-proyecto)   
-- [Tecnologías y librerías](#tecnologías-y-librerías)  
-- [Librerías](#Librerías)  
-- [Otras](#Otras)  
-- [Hallazgos principales / insights](#hallazgos-principales--insights)  
-- [Resumen](#resumen)
-
----
-
 ## Descripción del proyecto
 Este proyecto procesa y analiza datos de la temporada **LaLiga 2024-25**: jugadores, estadísticas por partido y clasificación.  
 Objetivos principales:
